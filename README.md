@@ -119,16 +119,7 @@ credit-risk-customer-classification/
 
 Follow these steps to run the project locally.
 
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/credit-risk-customer-classification.git
-cd credit-risk-customer-classification
-```
-
-Replace `YOUR-USERNAME` with your GitHub username.
-
-### 2️⃣ Create and activate a virtual environment
+### 1 Create and activate a virtual environment
 
 **Windows**
 ```bash
@@ -142,9 +133,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### 3️⃣ Install dependencies
-
-Create a `requirements.txt` file containing the packages used by the project:
+### 2 Install dependencies
 
 ```text
 pandas
@@ -158,15 +147,7 @@ xgboost
 flask
 ```
 
-Then install them:
-
-```bash
-pip install -r requirements.txt
-```
-
-💡 For reproducible results, test the project with compatible package versions and pin those versions in `requirements.txt`.
-
-### 4️⃣ Train the model
+### 3 Train the model
 
 Make sure the dataset and all required Python modules are in place, then run:
 
@@ -176,7 +157,7 @@ python main.py
 
 The pipeline prepares the data, performs feature engineering, balances the training set, trains Logistic Regression, evaluates predictions, and saves the model and scaler.
 
-### 5️⃣ Start the web app
+### 4 Start the web app
 
 After both `credit_card.pkl` and `standard_scaler.pkl` have been generated and are available:
 
@@ -235,7 +216,7 @@ Only share datasets you are permitted to redistribute. Do not load Pickle files 
 
 📌 *Finance, analytics, and machine learning enthusiast*
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: [@Aravind-VA](https://github.com/Aravind-VA)
 
 ---
 
