@@ -212,9 +212,9 @@ Only share datasets you are permitted to redistribute. Do not load Pickle files 
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+**Vemuri Aravind**
 
-📌 *Finance, analytics, and machine learning enthusiast*
+📌 *Business Analyst and machine learning enthusiast*
 
 - GitHub: [@Aravind-VA](https://github.com/Aravind-VA)
 
